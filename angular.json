@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "comic-app"
+  "defaultProject": "comic-app",
+  "cli": {
+    "analytics": "587a2970-b238-4f42-8428-c96774d8185e"
+  }
 }
